@@ -10,3 +10,5 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return <html lang="en"><body>{children}</body></html>;
 }
 isSupercute()
+
+isSupercute()
